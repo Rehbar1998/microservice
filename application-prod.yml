@@ -2,7 +2,7 @@
 
 spring:
   application:
-    name: Config-Dev
+    name: Config-prod
 
 eureka:
   instance:
